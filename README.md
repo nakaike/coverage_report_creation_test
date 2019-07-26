@@ -1,8 +1,12 @@
-# codeclimate�̒���
+# codeclimateの調査
 
-����������Ă��āAcodeclimate���g�����A
-�ÓI��͂ƃJ�o���[�W�̒����B
+<a href="https://codeclimate.com/github/nakaike/coverage_report_creation_test/maintainability"><img src="https://api.codeclimate.com/v1/badges/f78ed385d5f5a8b1eef9/maintainability" /></a>
+<a href="https://codeclimate.com/github/nakaike/coverage_report_creation_test/test_coverage"><img src="https://api.codeclimate.com/v1/badges/f78ed385d5f5a8b1eef9/test_coverage" /></a>
+
+
+↓からもってきて、codeclimateを使った、
+静的解析とカバレージの調査。
 https://github.com/nakaike/play-samples
 
-Bitbucket�����ƁA�g���Ȃ��̂ŃA�J�E���g���쐬�����܂ŁA
-�m�F�Ƃ��ăv���C�x�[�g���|�W�g�����g�p���A�m�F����B
+Bitbucketがだと、使えないのでアカウントが作成されるまで、
+確認としてプライベートリポジトリを使用し、確認する。
