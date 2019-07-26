@@ -7,6 +7,7 @@
 静的解析とカバレージの調査。
 
 ↓からもってきて、codeclimateを使った、
+
 https://github.com/nakaike/play-samples
 
 Bitbucketがだと、使えないのでアカウントが作成されるまで、
