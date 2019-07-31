@@ -1,7 +1,8 @@
 # codeclimateの調査
 
-<a href="https://codeclimate.com/github/nakaike/coverage_report_creation_test/maintainability"><img src="https://api.codeclimate.com/v1/badges/f78ed385d5f5a8b1eef9/maintainability" /></a>
-<a href="https://codeclimate.com/github/nakaike/coverage_report_creation_test/test_coverage"><img src="https://api.codeclimate.com/v1/badges/f78ed385d5f5a8b1eef9/test_coverage" /></a>
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=nakaike_coverage_report_creation_test&metric=bugs)](https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test)
+
 
 
 静的解析とカバレージの調査。
