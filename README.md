@@ -1,12 +1,17 @@
-# codeclimateの調査
+# sonarcloudの調査
 
-<a href="https://codeclimate.com/github/nakaike/coverage_report_creation_test/maintainability"><img src="https://api.codeclimate.com/v1/badges/f78ed385d5f5a8b1eef9/maintainability" /></a>
-<a href="https://codeclimate.com/github/nakaike/coverage_report_creation_test/test_coverage"><img src="https://api.codeclimate.com/v1/badges/f78ed385d5f5a8b1eef9/test_coverage" /></a>
 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=nakaike_coverage_report_creation_test&metric=bugs)](https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=nakaike_coverage_report_creation_test&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nakaike_coverage_report_creation_test&metric=alert_status)](https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test)
+
+
+
+静的解析とカバレージの調査。
 
 ↓からもってきて、codeclimateを使った、
-静的解析とカバレージの調査。
-https://github.com/nakaike/play-samples
+
+https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test
 
 Bitbucketがだと、使えないのでアカウントが作成されるまで、
 確認としてプライベートリポジトリを使用し、確認する。
