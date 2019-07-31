@@ -29,7 +29,7 @@ public class HomeController extends Controller {
     public Result tutorial() {
         String hoge = "test";
 
-        if (hoge == "test") {
+        if (hoge == "huga") {
             return ok(views.html.tutorial.render());
         }
         return ok(views.html.tutorial.render());
