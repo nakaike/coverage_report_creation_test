@@ -2,6 +2,7 @@
 
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=nakaike_coverage_report_creation_test&metric=bugs)](https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=nakaike_coverage_report_creation_test&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=nakaike_coverage_report_creation_test)
 
 
 
